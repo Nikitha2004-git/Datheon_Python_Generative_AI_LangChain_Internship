@@ -1,0 +1,20 @@
+Anika Rao
+anika.rao@mailbox.org | +91 90000 12345 | Hyderabad, India
+
+SUMMARY
+Junior software developer interested in backend systems.
+
+SKILLS
+Python, Django, REST APIs, SQL, Git
+
+EDUCATION
+Bachelor of Computer Applications (BCA), Greenfield University, 2023
+
+EXPERIENCE
+QA Associate - Brightpath Technologies
+July 2023 - Present
+Wrote and ran test cases for web applications and reported defects.
+
+Intern - Lakeview Software
+January 2023 - June 2023
+Helped build internal tools using Python.

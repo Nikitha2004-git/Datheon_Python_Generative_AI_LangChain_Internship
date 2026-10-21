@@ -1,0 +1,17 @@
+INVOICE
+
+Northwind Office Supplies Pvt. Ltd.
+14 Market Road, Tirupati, India
+
+Invoice No: NW-2024-0457
+Invoice Date: 12 April 2024
+Billed To: Sunrise Learning Centre
+
+Description              Qty   Unit Price    Amount
+A4 Paper (500 sheets)     20      INR 320    INR 6,400.00
+Whiteboard Markers        30       INR 45    INR 1,350.00
+Subtotal                                     INR 7,750.00
+GST (18%)                                    INR 1,395.00
+Total Due                                    INR 9,145.00
+
+Payment due within 15 days. Thank you for your business.

@@ -1,0 +1,30 @@
+{
+  "full_name": "Anika Rao",
+  "email": "anika.rao@mailbox.org",
+  "phone": "+91 90000 12345",
+  "skills": ["Python", "Django", "REST APIs", "SQL", "Git"],
+  "education": [
+    {
+      "institution": "Greenfield University",
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "field_of_study": null,
+      "graduation_year": 2023
+    }
+  ],
+  "experience": [
+    {
+      "company": "Brightpath Technologies",
+      "job_title": "QA Associate",
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "description": "Wrote and ran test cases for web applications and reported defects."
+    },
+    {
+      "company": "Lakeview Software",
+      "job_title": "Intern",
+      "start_date": "2023-01",
+      "end_date": "2023-06",
+      "description": "Helped build internal tools using Python."
+    }
+  ]
+}
