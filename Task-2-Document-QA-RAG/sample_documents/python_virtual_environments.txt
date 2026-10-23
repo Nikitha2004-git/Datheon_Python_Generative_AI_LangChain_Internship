@@ -1,0 +1,15 @@
+Python Virtual Environments - Quick Guide
+
+A virtual environment is an isolated folder that holds its own copy of Python packages. It keeps the libraries for one project separate from other projects, so versions do not clash.
+
+Create one on Windows with the command: python -m venv .venv
+Activate it in Command Prompt with: .venv\Scripts\activate
+After activation, the command prompt shows (.venv) at the start of the line.
+
+Install packages with pip, for example: pip install requests
+Save the installed packages to a file with: pip freeze > requirements.txt
+Later, anyone can recreate the same setup with: pip install -r requirements.txt
+
+To leave the environment, type: deactivate
+
+Never commit the .venv folder to Git. Add it to your .gitignore file instead.

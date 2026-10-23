@@ -1,0 +1,38 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local vector database and private data
+chroma_db/
+*.sqlite3
+uploads/
+data/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Streamlit / editor / OS
+.streamlit/secrets.toml
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build output
+*.zip
+dist/
+build/
+*.egg-info/

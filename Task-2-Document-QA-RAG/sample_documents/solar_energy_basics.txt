@@ -1,0 +1,11 @@
+Solar Energy Basics
+
+Solar panels, also called photovoltaic (PV) panels, convert sunlight directly into electricity. Each panel is made of many solar cells, usually built from silicon. When sunlight hits a cell, it knocks electrons loose and creates an electric current.
+
+A typical home solar panel produces direct current (DC) electricity. An inverter converts this into alternating current (AC), which is the type of electricity used by household appliances.
+
+Solar panels work best in direct sunlight, but they still produce some power on cloudy days. Output is usually lower in winter because there are fewer daylight hours. Most manufacturers offer a performance warranty of 25 years.
+
+Panels should be kept clean. Dust, leaves and bird droppings can reduce the amount of power produced. Cleaning with water and a soft brush two or three times a year is usually enough.
+
+Many homeowners add a battery so they can store extra energy during the day and use it at night.
