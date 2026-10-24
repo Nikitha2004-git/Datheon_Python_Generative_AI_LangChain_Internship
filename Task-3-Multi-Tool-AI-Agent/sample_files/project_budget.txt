@@ -1,0 +1,12 @@
+Project Budget - Website Redesign (fictional sample data)
+=========================================================
+Total approved budget : 500000
+Currency              : INR
+
+Spent so far:
+  Design work         : 120000
+  Development        : 185000
+  Cloud hosting       : 35000
+  Testing tools       : 20000
+
+Planned remaining items (not yet paid): marketing launch, staff training.

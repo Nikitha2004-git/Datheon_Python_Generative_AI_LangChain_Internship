@@ -1,0 +1,12 @@
+Company Information - Northwind Demo Traders (fictional sample data)
+====================================================================
+Company name : Northwind Demo Traders
+Founded      : 2015
+Headquarters : Hyderabad, India
+Employees    : 42
+Business     : Online sale of office stationery and small electronics.
+Departments  : Sales, Support, Logistics, Finance
+Support hours: Monday to Friday, 9:00 AM to 6:00 PM IST
+Contact      : support@example.com (sample address)
+
+Note: This is sample data created for testing the AI agent.
