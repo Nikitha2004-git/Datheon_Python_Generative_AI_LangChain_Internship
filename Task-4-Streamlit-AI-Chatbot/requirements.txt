@@ -1,0 +1,7 @@
+# Safe version ranges (checked against PyPI/Google docs in Oct 2026).
+# Python 3.12 compatible.
+streamlit>=1.50,<2
+langchain-core>=1.0,<2
+langchain-google-genai>=4.3,<5
+python-dotenv>=1.0,<2
+pytest>=8.0,<10
